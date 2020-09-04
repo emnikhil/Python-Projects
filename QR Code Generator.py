@@ -1,5 +1,4 @@
 import pyqrcode
-from pyqrcode import QRCode
 import png
 
 str = "String which represent the QR Code message or the reference link"
