@@ -73,3 +73,9 @@ Requirements :
   1. speechrecognition --> `pip install SpeechRecognition`  
   2. pyaudio --> `pip install pipwin`       
                  `pipwin install pyaudio`  
+
+# Text to Audio
+
+Requirements :   
+  1. gtts --> `pip install gTTS`    
+  2. playsound --> `pip install playsound`    
