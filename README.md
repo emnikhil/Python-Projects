@@ -86,4 +86,4 @@ Requirements :
   1. speedtest --> `pip install speedtest-cli`
 
 Output : 
-![](Images/internetSpeed.png)
+![](Images/internetSpeed.PNG)
