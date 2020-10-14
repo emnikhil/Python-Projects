@@ -79,3 +79,11 @@ Requirements :
 Requirements :   
   1. gtts --> `pip install gTTS`    
   2. playsound --> `pip install playsound`    
+
+# Internet Speed Test
+
+Requirements :
+  1. speedtest --> `pip install speedtest-cli`
+
+Output : 
+![](Images/internetSpeed.png)
