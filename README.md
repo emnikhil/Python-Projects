@@ -4,7 +4,7 @@ Requirements :
   1. os --> `pip install os-sys`
   2. tempfile --> `pip install temp`
   3. pdf2image -->  `pip install pdf2image`
-  4. warnings --> Build in package no need to install
+  4. warnings --> `Build in package no need to install`
   5. PIL --> `pip install Pillow >2.0`
   6. pytesseract --> `pip install pytesseract`
   7. GTTS --> `pip install gTTS`
@@ -48,7 +48,7 @@ Requirements :
 
 Requirements :  
   1. paho --> `pip install paho-mqtt`  
-  2. time --> Build in package no need to install  
+  2. time --> `Build in package no need to install`  
   
 # Music PLayer 
 
@@ -87,3 +87,14 @@ Requirements :
 
 Output : 
 ![](Images/internetSpeed.PNG)
+
+# Captcha Application
+
+Requirements :
+  1. tkinter --> `Build in package no need to install`
+  2. random --> `Build in package no need to install`
+
+Output :
+   | Captcha Output Image          | Captcha Reading Image        | Captcha Result Image           |
+   |-------------------------------|------------------------------|--------------------------------|
+   | ![](Images/captcha_input.PNG) | ![](Images/captcha_read.PNG) | ![](Images/captcha_output.PNG) |
