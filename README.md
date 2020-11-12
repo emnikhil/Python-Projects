@@ -105,5 +105,5 @@ Requirements :
   1. requests --> `pip install requests`
   2. Beautiful Sopu --> `pip install beautifulsoup4`
 
-Output :
+Output :    
 ![](Images/instagram_scrap.PNG)
