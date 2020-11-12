@@ -98,3 +98,12 @@ Output :
    | Captcha Output Image          | Captcha Reading Image        | Captcha Result Image           |
    |-------------------------------|------------------------------|--------------------------------|
    | ![](Images/captcha_input.PNG) | ![](Images/captcha_read.PNG) | ![](Images/captcha_output.PNG) |
+
+# Scrapping Instagram
+
+Requirements :
+  1. requests --> `pip install requests`
+  2. Beautiful Sopu --> `pip install beautifulsoup4`
+
+Output :
+![](Images/instagram_scrap.PNG)
