@@ -107,3 +107,13 @@ Requirements :
 
 Output :    
 ![](Images/instagram_scrap.PNG)
+
+# Encryption and Decryption of a Message
+
+Requirements :    
+  1. one-timepad --> `pip install onetimepad`
+
+Output :    
+   | Input                                 | Output                                 |
+   |---------------------------------------|----------------------------------------|
+   | ![](Images/encrypt_decrypt_input.PNG) | ![](Images/encrypt_decrypt_output.PNG) |
