@@ -117,3 +117,12 @@ Output :
    | Input                                 | Output                                 |
    |---------------------------------------|----------------------------------------|
    | ![](Images/encrypt_decrypt_input.PNG) | ![](Images/encrypt_decrypt_output.PNG) |
+
+# Web Scrapping (Scrape URLs)
+
+Requirements :    
+  1. requests --> `pip install requests`    
+  2. Beautiful Sopu --> `pip install beautifulsoup4`      
+
+Output :    
+![](Images/Scrape.PNG)
